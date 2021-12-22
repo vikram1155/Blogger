@@ -1,9 +1,9 @@
 To run app - npm run start\
 To run server - npx json-server --watch data/db.json --port 8000\
-Reactdom version - npm install react-router-dom@5\
+Reactdom version - npm install react-router-dom@5
 
 Create a folder - data\
-create a file inside data as - db.json\
+create a file inside data as - db.json
 
 {
   "blogs": [

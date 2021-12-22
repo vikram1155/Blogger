@@ -1,4 +1,4 @@
-to run app - npm run start
+to run app - npm run start\
 to run server - npx json-server --watch data/db.json --port 8000
 reactdom version - npm install react-router-dom@5
 

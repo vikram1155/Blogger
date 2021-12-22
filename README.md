@@ -1,3 +1,28 @@
+to run app - npm run start
+to run server - npx json-server --watch data/db.json --port 8000
+reactdom version - npm install react-router-dom@5
+
+Create a folder - data
+create a file inside data as - db.json
+
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "body1",
+      "author": "abcd",
+      "id": 1
+    },
+    {
+      "title": "My second blog!",
+      "body": "content2",
+      "author": "xyz",
+      "id": 2
+    }
+  ]
+}
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
